@@ -4,7 +4,7 @@ One highly requested feature for the DeGiro is the automated buying of stocks on
 This makes investing money in ETFs a hands off process, which will take the emotion out of it and will probably result in higher yields in the long run.
 
 No coding and no hosting is required to get this script running. This repository makes use of
-Github actions to run the code. Setting this up should only take 5 minutes.
+Github actions to run the code. Setting this up should only take 5 minutes!
 
 ## How to use
 1. Clone the repository and set up the environment variables `DEGIRO_USER` and `DEGIRO_PWD` (Settings > Secrets and variables > Actions)
